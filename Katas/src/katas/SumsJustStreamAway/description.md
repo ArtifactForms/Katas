@@ -4,7 +4,7 @@ As the title implies, this Kata is about Streams.
 Although the concept / language feature is several years old now, a lot of programmers
 (including myself) are not really familiar with it. So I decided to build
 some Katas around this topic to help us expanding our knowledge. It's rather about 
-fundamentals then fancy problems or algorithms.
+fundamentals than fancy problems or algorithms.
   
 Your job is it to implement various sum up functions.
 
